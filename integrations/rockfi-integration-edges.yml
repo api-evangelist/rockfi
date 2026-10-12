@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/rockfi/integrations
+- https://n8n.io/integrations/rockfi/
+- https://composio.dev/toolkits/rockfi
+- https://monid.ai/tools/rockfi
+checked:
+- https://composio.dev/toolkits/rockfi
+- https://monid.ai/tools/rockfi
+- https://n8n.io/integrations/rockfi/
+- https://zapier.com/apps/rockfi/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
